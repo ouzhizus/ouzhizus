@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ouzhizus,I'm just starting
 - 👀 I’m interested in programming,music and sometimes Dota
-- 🌱 I’m currently learning SQL,after I'll learn web
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with anyone who wants to help me
-- 📫 How to reach me same nick(ouzhizus)at: inst,vk,spotify,twitch
+- 📫 You can find me with my nick(ouzhizus)at: telegram,instagram,vk,spotify,twitch
 
 <!---
 ouzhizus/ouzhizus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
