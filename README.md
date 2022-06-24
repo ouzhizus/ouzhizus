@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouzhizus,I'm just starting
 - 👀 I’m interested in programming,music and sometimes Dota
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning QA/Python/Web
 - 💞️ I’m looking to collaborate with anyone who wants to help me
 - 📫 You can find me with my nick(ouzhizus)at: telegram,instagram,vk,spotify,twitch
 
