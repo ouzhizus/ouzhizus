@@ -1,3 +1,3 @@
 18yo
-Ukraine -> Poland
+Ukraine -> Poland(Szczecin)
 Learning Java/C#/QA
