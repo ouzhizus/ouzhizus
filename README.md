@@ -1,4 +1,4 @@
 * 20yo
 * Ukraine(Kharkiv) -> Poland(Szczecin)
-* Learning Java/C#/JS
+* Learning JS/Python
 * Telegram: @ouzhizus
